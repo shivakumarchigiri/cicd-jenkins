@@ -1,1 +1,1 @@
-# mindcircuit15d - SAMPLE APP
+# Shivakumar - SAMPLE APP
